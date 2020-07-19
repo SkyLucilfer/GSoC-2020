@@ -7,7 +7,10 @@ This GSoC project aims at improving Godot's support for text translation. In God
 During this GSoC period, I have been able to implement two features so far. Both of the features aim to improve Godot's support for PO files.
 
 ## POT Generation
-![](https://github.com/SkyLucilfer/GSoC-2020/blob/master/TranslationParserPlugin.png)
+<p align="center">
+  <img src="https://github.com/SkyLucilfer/GSoC-2020/blob/master/TranslationParserPlugin.png" />
+</p>
+
 
 POT files are templates for PO files. When we have a POT file, we can convert it to PO files of different languages, for example fr.po, ru.po etc. using a PO editor or gettext tools.
 
