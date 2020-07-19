@@ -1,1 +1,2 @@
-# GSoC-2020
+# Improving Godot's i18n support
+
