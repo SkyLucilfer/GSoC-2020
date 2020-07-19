@@ -22,7 +22,7 @@ To find out more about the pull request for this feature: https://github.com/god
 
 
 ## Plurals and context support
-Plurals and context support has been one of the features that is missing from Godot's i18n system. Users can now use the newly added API for translating plurals and providing context in a translation. The added APIs are:
+Plurals and context support has been one of the features that is missing from Godot's i18n system. Users can now use the newly added APIs for translating plurals and providing context in a translation. This new feature will resolve issues such as [31432](https://github.com/godotengine/godot/issues/31432) and [13267](https://github.com/godotengine/godot/issues/13267). The added APIs are:
 - For project:
   - tr_n(message, plural_message, n, context = "")
 
