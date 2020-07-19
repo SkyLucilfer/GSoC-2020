@@ -2,7 +2,7 @@
 
 Localization is part of game development if one wishes to make their games more accessible to a wider audience. The process of localization involves text translation, audio translation and even cultural adjustment for specific regions.
 
-This GSoC project aims at improving Godot's support for text translation. In Godot, we have two ways of importing translation - by using CSV or PO files. CSV is simple to understand and use. It provides one to one translation for a string key, i.e. for a given sentence there's one translation that maps to the sentence. PO files are a bit more complicated to understand, but they can handle translation involving plurals and context. Translation involving plurals can be tricky because different languages have different plural rules. PO files are capable of encoding these information.
+This GSoC project aims at improving Godot's support for text translation. In Godot, we have two ways of importing translation - by using CSV or PO files. CSV is simple to understand and use. It provides one to one translation for a string key, i.e. for a given sentence there is one translation that maps to the sentence. PO files are a bit more complicated to understand, but they can handle translation involving plurals and context. Translation involving plurals can be tricky because different languages have different plural rules. PO files are capable of encoding these information.
 
 The work that has been done so far involves improving Godot's support for PO files. 
 
