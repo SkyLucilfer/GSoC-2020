@@ -16,7 +16,7 @@ Below contains the major milestones of my GSoC work. The dates might not be exac
 
 &nbsp;
 
-9 Jun 2020 - Added POT generation in Editor.
+**9 Jun 2020** - Added POT generation in Editor.
 
 23 Jun 2020 - Added plugin support in POT generation.
 
