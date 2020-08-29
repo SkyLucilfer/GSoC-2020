@@ -1,6 +1,8 @@
 ## Google Summer of Code 2020
 This repository documents the progress of my work during GSoC 2020 with [Godot Engine](https://github.com/godotengine/godot).
 
+&nbsp;
+
 ### Context
 During this GSoC period, my responsibility was to enhance the internationalization (i18n) support in Godot. 
 
