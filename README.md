@@ -5,7 +5,7 @@ This repository documents the progress of my work during GSoC 2020 with [Godot E
 During this GSoC period, my responsibility was to enhance the internationalization (i18n) support in Godot. 
 
 My main focus was to upgrade the support of gettext PO files. This included making the workflow of using PO files more user-friendly,
-and also upgrading the translation system to capture the PO files' full capability - plurals feature, context feature, and ability to include translator comments.
+and also upgrading the translation system to capture the PO files' full capability - plurals support, context support, and ability to include translator comments.
 
 &nbsp;
 
