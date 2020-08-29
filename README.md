@@ -30,7 +30,7 @@ Below contains the major milestones of my GSoC work. The dates might not be exac
 
 7 August 2020 - Refactored the Translation class to have a proper class handling PO files.
 
-13 August 2020 - Update translation parser to use GDScript parser.
+13 August 2020 - Update translation parser to use GDScript parser instead of RegEx.
 
 - [PR40443](https://github.com/godotengine/godot/pull/40443)
 
