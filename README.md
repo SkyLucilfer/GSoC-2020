@@ -24,7 +24,7 @@ Below contains the major milestones of my GSoC work. The dates might not be exac
 
 &nbsp;
 
-16 July 2020 - Added plurals and context translation support for game projects and Editor.
+16 July 2020 - Added plurals and context support in translation for game projects and Editor.
 
 23 July 2020 - Updated POT generation to handle plurals and context.
 
