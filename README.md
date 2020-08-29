@@ -28,7 +28,7 @@ Below contains the major milestones of my GSoC work. The dates might not be exac
 
 23 July 2020 - Updated POT generation to handle plurals and context.
 
-7 August 2020 - Refactored the Translation class to have a specified class for PO files.
+7 August 2020 - Refactored the Translation class to have a proper class handling PO files.
 
 13 August 2020 - Update translation parser to use GDScript parser.
 
