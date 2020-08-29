@@ -12,7 +12,7 @@ and also upgrading the translation system to capture PO files' full capability -
 &nbsp;
 
 ### Work done 
-Below contains the major milestones of my GSoC work. The dates might not be exact, but they should depict the correct order of the work that was done.
+Below contains the major milestones of my GSoC work. The dates might not be exact, but they should depict the correct order of the work that has been done.
 
 &nbsp;
 
