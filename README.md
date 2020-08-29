@@ -36,7 +36,7 @@ Below contains the major milestones of my GSoC work. The dates might not be exac
 
 &nbsp;
 
-9 August 2020 - Created a tutorial for localization using PO files.
+9 August 2020 - Updated the tutorial for localization using PO files.
 
 - [PR3935](https://github.com/godotengine/godot-docs/pull/3935)
 
